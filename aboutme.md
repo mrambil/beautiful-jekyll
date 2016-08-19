@@ -5,6 +5,8 @@ subtitle: Why you'd want to drop me a line
 ---
 ### Career
 
+{% include cardfull.html %}
+
 <div class="card">
   <img class="card-img-top" src="http://www.atgp.net/images/logp_footer_2.png" alt="Card image cap">
   <div class="card-block">
