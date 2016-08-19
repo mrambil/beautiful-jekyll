@@ -1,4 +1,4 @@
-{% if include.width == "" %}
+{% if (include.width == "") or (include.width == Nil) %}
 	{% assign include.width="6" %}
 {% endif %}
 
