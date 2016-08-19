@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Mohamed Rambil
+title: "Mohamed Rambil's blog"
 
 # Short description of your site
-description: Tech enthusiast, CTO at nomination.fr
+description: "Tech enthusiast, CTO at nomination.fr"
 
 # --- Navigation bar options --- #
 
@@ -39,12 +39,12 @@ avatar: "/img/avatar-small.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Mohamed Rambil
+  name: "Mohamed Rambil"
   email: "mrambil@gmail.com"
-  facebook: mrambil  # eg. daattali
-  github: mrambil    # eg. daattali
-  twitter: mrambil   # eg. daattali
-  linkedin: mohamed-rambil  # eg. daattali
+  facebook: "mrambil"  # eg. daattali
+  github: "mrambil"    # eg. daattali
+  twitter: "mrambil"   # eg. daattali
+  linkedin: "mohamed-rambil"  # eg. daattali
   xing:       # eg. daattali
   stackoverflow:   # eg. "3943160/daattali"
   instagram:  # eg. daattali
