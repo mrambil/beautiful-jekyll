@@ -9,9 +9,13 @@
             <div class="card">
                 <div class="card-image">
                     <img class="img-responsive" src="{{ include.img }}">
-                    <span class="card-title">{{ include.title }}</span>
+                    <span class="card-overlay-title">{{ include.overlaytitle }}</span>
                 </div>
                 
+                <div class="card-title">
+					{{ include.title }}
+                </div>
+				
                 <div class="card-content">
                     <p>{{ include.content }}</p>
                 </div>
