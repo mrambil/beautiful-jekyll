@@ -1,0 +1,21 @@
+<div class="container">
+    <div class="row">
+        <!-- Card Projects -->
+        <div class="col-md-6 col-md-offset-3">
+            <div class="card">
+                <div class="card-image">
+                    <img class="img-responsive" src="{{ include.img }}">
+                    <span class="card-title">{{ include.title }}</span>
+                </div>
+                
+                <div class="card-content">
+                    <p>{{ include.content }}</p>
+                </div>
+                
+                <div class="card-action">
+					<a href="{{ linkurl }}">{{ include.link[0] }}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
