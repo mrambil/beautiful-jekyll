@@ -37,7 +37,8 @@
   background-clip: padding-box;
   box-sizing: border-box;
 }
-.card .card-content p {
+.card .card-content p , 
+.card .card-title p {
   margin: 0;
   color: inherit;
 }
