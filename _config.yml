@@ -80,7 +80,7 @@ url-pretty: "mrambil.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "disqus_ehhxH8Mf0L"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-82809168-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
