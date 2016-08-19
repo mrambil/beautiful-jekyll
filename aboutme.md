@@ -1,11 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: What I-ve done in the past and why you'd want to drop me a line
+subtitle: What I-ve done in the past and why you might want to drop me a line
 ---
 ### Personal facts
 
-I was born in 1984, am married and I have one kid. I love reading, watching movies, going to music festival and spending time with my family and friends.
+I was born in 1984, I am married and I have one kid. 
+
+I love reading, watching movies, going to music festival, travelling, hiking and spending time with my family and friends.
 
 I currently live in Paris. 
 
