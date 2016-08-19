@@ -2,28 +2,24 @@
 	{% assign include.width="6" %}
 {% endif %}
 
-<div class="container">
-    <div class="row">
-        <!-- Card Projects -->
-        <div class="col-md-{{include.width }}">
-            <div class="card">
-                <div class="card-image">
-                    <img class="img-responsive" src="{{ include.img }}">
-                    <span class="card-overlay-title">{{ include.overlaytitle }}</span>
-                </div>
-                
-                <div class="card-title">
-					<p>{{ include.title }}</p>
-                </div>
-				
-                <div class="card-content">
-                    <p>{{ include.content }}</p>
-                </div>
-                
-                <div class="card-action">
-					<a href="{{ include.linkurl }}">{{ include.linktext }}</a>
-                </div>
-            </div>
-        </div>
-    </div>
+<!-- Card Projects -->
+<div class="col-md-{{include.width }}">
+	<div class="card">
+		<div class="card-image">
+			<img class="img-responsive" src="{{ include.img }}">
+			<span class="card-overlay-title">{{ include.overlaytitle }}</span>
+		</div>
+		
+		<div class="card-title">
+			<p>{{ include.title }}</p>
+		</div>
+		
+		<div class="card-content">
+			<p>{{ include.content }}</p>
+		</div>
+		
+		<div class="card-action">
+			<a href="{{ include.linkurl }}">{{ include.linktext }}</a>
+		</div>
+	</div>
 </div>
