@@ -5,13 +5,4 @@ subtitle: Why you'd want to drop me a line
 ---
 ### Career
 
-{% include cardfull.html %}
-
-<div class="card">
-  <img class="card-img-top" src="http://www.atgp.net/images/logp_footer_2.png" alt="Card image cap">
-  <div class="card-block">
-    <h4 class="card-title">Card title</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
+{% include cardfull.html content="Mon texte" linkurl="http://www.nomination.fr" linktext="nomination.fr" %}
